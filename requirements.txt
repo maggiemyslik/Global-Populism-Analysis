@@ -1,0 +1,10 @@
+geopandas==1.0.1
+matplotlib-inline==0.1.7
+numpy==2.2.2
+pandas==2.2.3
+pycountry==24.6.1
+shapely==2.0.7
+sqlalchemy
+pyshp
+google-cloud-storage
+
