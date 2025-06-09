@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2023",
+            "value": 213.87513528772,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2022",
+            "value": 204.482120615775,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2021",
+            "value": 187.117425058296,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2020",
+            "value": 172.774291252888,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2019",
+            "value": 167.397860280061,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2018",
+            "value": 161.373814183906,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2017",
+            "value": 155.668786230018,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2016",
+            "value": 150.482594206408,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2015",
+            "value": 138.388614560102,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2014",
+            "value": 126.927212865611,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

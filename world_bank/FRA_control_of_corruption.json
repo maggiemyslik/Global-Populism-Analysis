@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2023",
+            "value": 1.18482184410095,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2022",
+            "value": 1.25943613052368,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2021",
+            "value": 1.28193628787994,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2020",
+            "value": 1.12261998653412,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2019",
+            "value": 1.24806225299835,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2018",
+            "value": 1.28155159950256,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2017",
+            "value": 1.22452700138092,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2016",
+            "value": 1.32828891277313,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2015",
+            "value": 1.24783480167389,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "CC.EST",
+                "value": "Control of Corruption: Estimate"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2014",
+            "value": 1.2879855632782,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2023",
+            "value": 27.988,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2022",
+            "value": 28.838,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2021",
+            "value": 28.77,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2020",
+            "value": 24.339,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2019",
+            "value": 25.538,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2018",
+            "value": 24.218,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2017",
+            "value": 23.992,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2016",
+            "value": 24.023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2015",
+            "value": 22.869,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2014",
+            "value": 22.606,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

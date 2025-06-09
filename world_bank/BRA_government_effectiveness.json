@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2023",
+            "value": -0.546764314174652,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2022",
+            "value": -0.588259339332581,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2021",
+            "value": -0.492990374565125,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2020",
+            "value": -0.465709209442139,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2019",
+            "value": -0.234114676713943,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2018",
+            "value": -0.520569622516632,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2017",
+            "value": -0.317140609025955,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2016",
+            "value": -0.249387070536613,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2015",
+            "value": -0.255271553993225,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "GE.EST",
+                "value": "Government Effectiveness: Estimate"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2014",
+            "value": -0.175920635461807,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

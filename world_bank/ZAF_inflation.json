@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2023",
+            "value": 194.839466353907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2022",
+            "value": 183.682744465621,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2021",
+            "value": 171.60240433954,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2020",
+            "value": 164.03753115379,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2019",
+            "value": 158.935639935493,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2018",
+            "value": 152.646239554318,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2017",
+            "value": 146.04896642721,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2016",
+            "value": 138.850608415188,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2015",
+            "value": 130.288813956898,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL",
+                "value": "Consumer price index (2010 = 100)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2014",
+            "value": 124.629819674535,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]
