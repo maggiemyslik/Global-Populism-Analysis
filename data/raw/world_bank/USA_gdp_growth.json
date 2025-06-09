@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2023",
+            "value": 2.88755600906016,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2022",
+            "value": 2.51237531983308,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2021",
+            "value": 6.05505293304576,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2020",
+            "value": -2.16302913866514,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2019",
+            "value": 2.58382533018855,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2018",
+            "value": 2.96650506916633,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2017",
+            "value": 2.45762230322211,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2016",
+            "value": 1.81945147474293,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2015",
+            "value": 2.94555045455233,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "US",
+                "value": "United States"
+            },
+            "countryiso3code": "USA",
+            "date": "2014",
+            "value": 2.52381981441982,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

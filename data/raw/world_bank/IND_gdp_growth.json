@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2023",
+            "value": 8.1529363109041,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2022",
+            "value": 6.9870393257555,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2021",
+            "value": 9.68959249192875,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2020",
+            "value": -5.77772470686801,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2019",
+            "value": 3.87143694070356,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2018",
+            "value": 6.45385134497769,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2017",
+            "value": 6.79538341897911,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2016",
+            "value": 8.25630550179086,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2015",
+            "value": 7.99625378571471,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.KD.ZG",
+                "value": "GDP growth (annual %)"
+            },
+            "country": {
+                "id": "IN",
+                "value": "India"
+            },
+            "countryiso3code": "IND",
+            "date": "2014",
+            "value": 7.41022760508854,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

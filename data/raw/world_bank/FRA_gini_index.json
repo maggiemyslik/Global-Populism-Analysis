@@ -1,0 +1,172 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 10,
+        "sourceid": "2",
+        "lastupdated": "2024-12-16"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2023",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2022",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2021",
+            "value": 31.5,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2020",
+            "value": 30.7,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2019",
+            "value": 31.2,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2018",
+            "value": 32.4,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2017",
+            "value": 31.6,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2016",
+            "value": 31.9,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2015",
+            "value": 32.7,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SI.POV.GINI",
+                "value": "Gini index"
+            },
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2014",
+            "value": 32.3,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]
